@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uentacese.github.io/uentacese.txt.gz
+Sitemap: https://uentacese.github.io/app/uentacese.txt.gz
+Sitemap: https://uentacese.github.io/assets/uentacese.txt.gz
+Sitemap: https://uentacese.github.io/css/uentacese.txt.gz
+Sitemap: https://uentacese.github.io/includes/uentacese.txt.gz
+Sitemap: https://uentacese.github.io/item/uentacese.txt.gz
+Sitemap: https://uentacese.github.io/src/uentacese.txt.gz
